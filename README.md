@@ -1,2 +1,3 @@
 # Survey-Form
-Simple Survey Form webpage made using pure HTML, CSS with dark theme 
+
+Simple survey form webpage made using pure HTML, CSS with dark theme 
