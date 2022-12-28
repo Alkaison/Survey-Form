@@ -58,7 +58,7 @@ button and Checkbox */
 }
 
 /* Styling Button */
-button {
+.button {
     background-color: var(--theme);
     color: white;
     border: 1px solid #777;
@@ -72,6 +72,6 @@ button {
     padding: 5px;
 }
 
-button:hover, input[type="radio"], input[type="checkbox"]{
+.button:hover, input[type="radio"], input[type="checkbox"]{
     cursor: pointer;
 }

@@ -12,7 +12,7 @@
 
 <body>
     <!-- Create Form -->
-<form id="form" name="survey-form" method="get" action="/Form_Page/form.html">
+<form id="form" name="survey-form" action="/Form_Page/form.html">
 
     <!-- Details -->
     <div class="form-control">
@@ -55,6 +55,7 @@
          
         <!-- Dropdown options -->
         <select name="role" id="role">
+            <option value="">None</option>
             <option value="student">Student</option>
             <option value="intern">Intern</option>
             <option value="professional">Professional</option>
@@ -130,11 +131,13 @@
         <!-- multi-line text input control -->
         <textarea name="comment" id="comment" rows="5" placeholder="Enter your comment here"></textarea>
     </div>
-
     <!-- Multi-line Text Input Control -->
-    <button type="submit" value="submit">
-        Submit
-    </button>
+    <input type="submit" value="Submit" onclick="fun()" class="button">
 </form>
+<script>
+    function fun(){
+        document.getElementById('form').reset();
+    }
+</script>
 </body>
 </html>
