@@ -233,3 +233,17 @@ button:hover, input[type="radio"], input[type="checkbox"]{
 ## Screenshot
 
 ![Survey Form Webpage](https://github.com/Alkaison/Survey-Form/blob/main/image.png)
+
+## Feedback
+
+If you have any feedback, please reach out to us at [Discord](https://discord.gg/dF4PHxbHpA).
+
+## 💛 Contributing
+
+1. To propose a change in this document or submit a new translation you can [fork this repository](https://github.com/Alkaison/Survey-Form/fork) and submit a **pull request**.
+
+2. Questions about anything? Ask me [here](https://github.com/Alkaison/Survey-Form/issues/new)!
+
+3. If you like this project, give it a ⭐ and **share it** with friends!
+
+4. You can connect with me on [LinkedIn](https://linkedin.com/in/alkaison).
