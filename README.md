@@ -232,7 +232,7 @@ button:hover, input[type="radio"], input[type="checkbox"]{
 
 ## Screenshot
 
-![Survey Form Webpage](https://github.com/Alkaison/Survey-Form/blob/main/image.png)
+![Survey Form Webpage](https://i.ibb.co/bbd1xDQ/image.png)
 
 ## Feedback
 
